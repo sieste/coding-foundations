@@ -21,6 +21,7 @@
 - create a vector
 - length, head, tail
 - extract/remove/replace the n-th element
+- 0-based vs 1-based indexing
 - sequence `:`
 - extract/remove/replace several elements
 - combine 2 vectors
