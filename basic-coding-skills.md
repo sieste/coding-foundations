@@ -1,3 +1,10 @@
+# getting started
+
+- installation
+- open the ide/gui
+- get familiar with the components
+- exit the ide
+
 # basic maths
 
 - using the console as a "pocket calculator"
@@ -71,11 +78,13 @@
 
 # functions
 
-- general concept
+- general idea
 - function definition
 - function arguments (positional, named, optional)
 - return value
+- examples of builtin functions
 - scoping rules
+- getting help
 
 # control structures
 
@@ -83,6 +92,12 @@
 - for/while
 - break/continue
 
+# external libraries/packages
+
+- finding packages
+- installation
+- documentation
+- demos/tutorials/vignettes
 
 
 
